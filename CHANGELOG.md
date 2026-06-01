@@ -1,3 +1,9 @@
+## 2.0.7
+
+- Migrates to Built-in Kotlin (Flutter 3.44+).
+- Removes legacy Kotlin Gradle Plugin application from android/build.gradle.
+- Updates minimum Flutter to 3.44 / Dart 3.12.
+
 ## 2.0.6
 * Fixing iOS build
 * Fixing memory leak on Android
